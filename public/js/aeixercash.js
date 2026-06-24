@@ -2197,8 +2197,11 @@ document.getElementById('lookup-recipient-btn').addEventListener('click', async 
                 AeiXerCash — Non-Custodial USDC Wallet
             </p>
             <h1 class="text-4xl sm:text-6xl font-extrabold leading-tight mb-6 text-slate-900">
-                USDC Rails on Polygon, Crafted for Simplicity
-            </h1>
+  A Better Way To Send Digital Dollars, 
+  <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
+    Start Today For FREE
+  </span>
+</h1>
             <p class="text-xl text-slate-600 mb-10 max-w-xl">
                 Import or create a 12-word mnemonic phrase, scan and activate up to 6 of 100 derived Polygon addresses, link your Google account, and send USDC with rich custom notes and animated GIFs.
             </p>
